@@ -1,0 +1,36 @@
+body {
+    background-color: wheat;
+    color: black;
+    margin: 0;
+    padding: 0px;
+    text-align: left;
+    font-size: 100%;
+    font-family: sans-serif;
+}
+
+/****Heading***/
+
+h1{
+    font-family: cursive;
+    font-size: 70px;
+    color: rgb(139, 0, 0);
+}
+
+/*table*/
+
+table {
+    border: 2px solid black;
+}
+
+/*adding border to the heading and highliting heading*/
+
+th {
+    border: 2px solid black;
+    background-color: yellow;  
+}
+
+/*adding borders to the table cells*/
+
+td {
+    border: 2px solid black;
+}
